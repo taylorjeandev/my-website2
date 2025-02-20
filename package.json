@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/taylorjeandev/my-website2/issues"
   },
-  "homepage": "https://github.com/taylorjeandev/my-website2#readme"
+  "homepage": "https://github.com/taylorjeandev/my-website2#readme",
+  "dependencies": {
+    "next": "^15.1.7"
+  }
 }
