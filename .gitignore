@@ -1,3 +1,7 @@
 my-website/public/AZ900-2024.pdf
 .vercel
-node_modules
+node_modules.DS_Store
+.next/
+.DS_Store
+.next/
+
