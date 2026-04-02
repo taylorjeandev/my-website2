@@ -9,7 +9,7 @@ export default function Hero() {
           Network & Security Engineer | Fitness Coach 
         </span>
         <h1 className="text-5xl md:text-6xl font-extrabold leading-tight">
-          Obsessed with the <span className="text-blue-400">Cloud</span>
+          Obsessed with <span className="text-blue-400">Security</span>
         </h1>
         <p className="text-gray-400 text-lg">
           Hello World! I'm Taylor Jean, and I love Networking, Programming and Fitness! If you need proof, check out my projects and videos!
