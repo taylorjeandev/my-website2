@@ -6,7 +6,7 @@ export default function Hero() {
       {/* Left Side Content */}
       <div className="w-full md:w-1/2 space-y-4">
         <span className="bg-yellow-400 text-black font-bold text-sm px-3 py-1 rounded-full">
-          Network & Cloud Engineer | Fitness Coach 
+          Network & Security Engineer | Fitness Coach 
         </span>
         <h1 className="text-5xl md:text-6xl font-extrabold leading-tight">
           Obsessed with the <span className="text-blue-400">Cloud</span>
