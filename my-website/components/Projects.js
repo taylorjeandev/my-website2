@@ -9,7 +9,7 @@ export default function Projects() {
         {/* Multi-Site Startup Network Infrastructure */}
         <div className="bg-gray-900 shadow-lg rounded-lg p-4 hover:scale-105 transition transform duration-300 border border-yellow-400">
           <img
-            src="/packet-tracer.png"
+            src="/multi-site.png"
             alt="Multi-Site Startup Network Infrastructure"
             className="w-full h-48 object-cover rounded-lg"
           />

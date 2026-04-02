@@ -1,6 +1,6 @@
 // app/layout.js
-import "/styles/globals.css";
-import Navbar from "/components/Navbar";
+import "./globals.css";
+import Navbar from "../../components/Navbar";
 
 export const metadata = {
   title: "Taylor Jean | Portfolio",
